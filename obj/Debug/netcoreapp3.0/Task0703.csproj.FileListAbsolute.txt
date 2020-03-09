@@ -1,0 +1,13 @@
+C:\Users\Jamie\Desktop\Task0703\bin\Debug\netcoreapp3.0\Task0703.exe
+C:\Users\Jamie\Desktop\Task0703\bin\Debug\netcoreapp3.0\Task0703.deps.json
+C:\Users\Jamie\Desktop\Task0703\bin\Debug\netcoreapp3.0\Task0703.runtimeconfig.json
+C:\Users\Jamie\Desktop\Task0703\bin\Debug\netcoreapp3.0\Task0703.runtimeconfig.dev.json
+C:\Users\Jamie\Desktop\Task0703\bin\Debug\netcoreapp3.0\Task0703.dll
+C:\Users\Jamie\Desktop\Task0703\bin\Debug\netcoreapp3.0\Task0703.pdb
+C:\Users\Jamie\Desktop\Task0703\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Jamie\Desktop\Task0703\obj\Debug\netcoreapp3.0\Task0703.csprojAssemblyReference.cache
+C:\Users\Jamie\Desktop\Task0703\obj\Debug\netcoreapp3.0\Task0703.AssemblyInfoInputs.cache
+C:\Users\Jamie\Desktop\Task0703\obj\Debug\netcoreapp3.0\Task0703.AssemblyInfo.cs
+C:\Users\Jamie\Desktop\Task0703\obj\Debug\netcoreapp3.0\Task0703.csproj.CopyComplete
+C:\Users\Jamie\Desktop\Task0703\obj\Debug\netcoreapp3.0\Task0703.dll
+C:\Users\Jamie\Desktop\Task0703\obj\Debug\netcoreapp3.0\Task0703.pdb
