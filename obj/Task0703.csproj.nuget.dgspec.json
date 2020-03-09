@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jamie\\Desktop\\Task0703\\Task0703.csproj": {}
+    "C:\\Users\\Jamie\\desktop\\Verifa-TaskA\\Task0703.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jamie\\Desktop\\Task0703\\Task0703.csproj": {
+    "C:\\Users\\Jamie\\desktop\\Verifa-TaskA\\Task0703.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jamie\\Desktop\\Task0703\\Task0703.csproj",
+        "projectUniqueName": "C:\\Users\\Jamie\\desktop\\Verifa-TaskA\\Task0703.csproj",
         "projectName": "Task0703",
-        "projectPath": "C:\\Users\\Jamie\\Desktop\\Task0703\\Task0703.csproj",
+        "projectPath": "C:\\Users\\Jamie\\desktop\\Verifa-TaskA\\Task0703.csproj",
         "packagesPath": "C:\\Users\\Jamie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jamie\\Desktop\\Task0703\\obj\\",
+        "outputPath": "C:\\Users\\Jamie\\desktop\\Verifa-TaskA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,12 +56,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.3, 3.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
